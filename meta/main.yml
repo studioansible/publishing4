@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: publish_abc
+  author: astudio
+  description: test1
+  company: astudio
+  issue_tracker_url: github.com
+  license: MIT
+  min_ansible_version: '1.1'
+  min_ansible_container_version: '2.4'
+  github_branch: master
+  galaxy_tags:
+    - tag1
+    - tag2
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
